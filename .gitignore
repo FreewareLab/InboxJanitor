@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local secrets / Google credentials
+credentials.json
+token.json
+*.secret
+.env
+
+# IDEs / editors
+.vscode/
+.idea/
+
+# OS junk
+Thumbs.db
+.DS_Store
+
+# Build output
+build/
+dist/
+*.egg-info/
